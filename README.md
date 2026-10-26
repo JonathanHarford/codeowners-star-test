@@ -1,1 +1,2 @@
 # codeowners-star-test
+foo
